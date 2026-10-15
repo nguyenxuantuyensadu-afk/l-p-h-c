@@ -2,6 +2,7 @@
   "name": "go/proactive-co-creator",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://nguyenxuantuyensadu-afk.github.io/l-p-h-c/",
   "type": "module",
   "scripts": {
     "dev": "vite",
